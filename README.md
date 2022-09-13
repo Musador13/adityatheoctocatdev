@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#107](https://github.com/adityatheoctocatdev/compose-roadmap/pull/107) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-2. 🎉 Merged PR [#164](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/164) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. 🎉 Merged PR [#163](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/163) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. ❌ Closed PR [#19617](https://github.com/github/docs/pull/19617) in [github/docs](https://github.com/github/docs)
-5. 💪 Opened PR [#19617](https://github.com/github/docs/pull/19617) in [github/docs](https://github.com/github/docs)
+1. 🎉 Merged PR [#165](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/165) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#107](https://github.com/adityatheoctocatdev/compose-roadmap/pull/107) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+3. 🎉 Merged PR [#164](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/164) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 🎉 Merged PR [#163](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/163) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. ❌ Closed PR [#19617](https://github.com/github/docs/pull/19617) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
