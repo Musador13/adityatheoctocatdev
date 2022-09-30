@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/24) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
-2. 🎉 Merged PR [#20](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/20) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
-3. 🎉 Merged PR [#168](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/168) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. 🎉 Merged PR [#23](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/23) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
-5. 🎉 Merged PR [#165](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/165) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. 🎉 Merged PR [#105](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/105) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#24](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/24) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
+3. 🎉 Merged PR [#20](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/20) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
+4. 🎉 Merged PR [#168](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/168) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 🎉 Merged PR [#23](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/23) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
